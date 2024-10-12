@@ -1,1 +1,4 @@
-# ayu-zen-browser
+
+# Ayu
+
+Ayu Colorscheme for Zen Browser
