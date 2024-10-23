@@ -3,34 +3,7 @@
 .zenLooksAndFeelColorOption {
 
 	/* Theming Variables */
-	body:has(#theme-ayu[theme-ayu-accent-color="red"]) {
-		--zen-primary-color: #ea6c73 !important;
-	}
-
-	body:has(#theme-ayu[theme-ayu-accent-color="green"]) {
-		--zen-primary-color: #91b362 !important;
-	}
-
-	body:has(#theme-ayu[theme-ayu-accent-color="yellow"]) {
-		--zen-primary-color: #f9af4f !important;
-	}
-
-	body:has(#theme-ayu[theme-ayu-accent-color="blue"]) {
-		--zen-primary-color: #53bdfa !important;
-	}
-
-	body:has(#theme-ayu[theme-ayu-accent-color="purple"]) {
-		--zen-primary-color: #fae994 !important;
-	}
-
-	body:has(#theme-ayu[theme-ayu-accent-color="cyan"]) {
-		--zen-primary-color: #90e1c6 !important;
-	}
-
-	body:has(#theme-ayu[theme-ayu-accent-color="white"]) {
-		--zen-primary-color: #c7c7c7 !important;
-	}
-
+	--zen-primary-color: #ea6c73 !important;
 	--zen-dark-color-mix-base: #0a0e14 !important;
 	--zen-colors-primary-foreground: #b3b1ad !important;
 	--zen-colors-border: #4b4b4b !important;
