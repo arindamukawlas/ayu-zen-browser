@@ -3,4 +3,8 @@
 
 Ayu Colorscheme for Zen Browser
 
-Includes setting to use Ayu colors as accent colors.
+Copy the userContent and userChrome files to your profile-root/chrome/ directory
+
+Find the profile-root by visiting ![about:profiles](about:profiles)
+
+![](ayu-dark.png)
