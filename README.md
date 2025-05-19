@@ -1,7 +1,8 @@
 
 # Ayu
 
-Ayu Colorscheme for Zen Browser
+Ayu Dark Colorscheme for Zen Browser
+(PRs for Ayu Light and Mirage ports would be noice)
 
 Find the profile-root by visiting about:profiles
 
